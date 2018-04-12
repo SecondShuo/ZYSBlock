@@ -40,6 +40,7 @@
     
     [P ert:^{
         NSLog(@"yang");
+        NSLog(@"");
     }];
     
 //    3. block 返回值
